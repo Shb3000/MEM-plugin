@@ -12,19 +12,6 @@
       "Pillow>=9.0.0",
       "python-dotenv>=0.19.0"
     ],
-    "python_requires": ">=3.8",
-    "files": [
-      "mem_plugin.py",
-      "core/**/*.py",
-      "multimodal/**/*.py",
-      "kubemanagement/**/*.py",
-      "schedulers/**/*.py",
-      "feedback/**/*.py",
-      "integration/**/*.py",
-      "installer/**/*.py"
-    ],
-    "data_files": [
-      "mem_plugin_data"
-    ]
+    "python_requires": ">=3.8"
   }
 }
