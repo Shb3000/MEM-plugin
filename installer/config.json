@@ -1,0 +1,19 @@
+{
+  "name": "MEM-Plugin",
+  "version": "1.0.0",
+  "description": "Persistent Memory OS for DeepSeek Harness",
+  "author": "MEM-Plugin Team",
+  "created_at": "2026-11-11T17:18:42.442062Z",
+  "features": [
+    "Unified Memory API",
+    "Multi-Modal Memory",
+    "Multi-Cube Knowledge Base",
+    "Async Ingestion via MemScheduler",
+    "Memory Feedback & Correction"
+  ],
+  "requirements": [
+    "numpy>=1.21.0",
+    "Pillow>=9.0.0",
+    "python-dotenv>=0.19.0"
+  ]
+}
